@@ -1,0 +1,29 @@
+manifestVersion: 1
+id: willitmod-axemig
+category: bitcoin
+name: AxeMIG
+version: "0.1.0"
+tagline: EXPERIMENTAL - PRE ALPHA - USE WITH CAUTION
+icon: icon.png
+description: >-
+  EXPERIMENTAL - PRE ALPHA - USE WITH CAUTION.
+
+
+  AxeMIG is a migration utility for moving blockchain data between Bitcoin-related apps on Umbrel,
+  including the Axe family (AxeBTCF / AxeBCH / AxeDGB). Designed for USB import/export and advanced SSH workflows.
+developer: WillItMod
+website: https://github.com/WillItMod/AxeMIG-Release
+repo: https://github.com/WillItMod/AxeMIG-Release
+support: https://github.com/WillItMod/AxeMIG-Release/issues
+dependencies: []
+port: 12150
+gallery:
+  - icon.png
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+releaseNotes: >-
+  EXPERIMENTAL - PRE ALPHA - USE WITH CAUTION.
+submitter: WillItMod
+submission: ""
+
