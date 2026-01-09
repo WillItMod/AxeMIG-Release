@@ -2,7 +2,7 @@ manifestVersion: 1
 id: willitmod-axemig
 category: bitcoin
 name: AxeMIG
-version: "0.1.0"
+version: "0.1.1"
 tagline: EXPERIMENTAL - PRE ALPHA - USE WITH CAUTION
 icon: icon.png
 description: >-
@@ -26,4 +26,3 @@ releaseNotes: >-
   EXPERIMENTAL - PRE ALPHA - USE WITH CAUTION.
 submitter: WillItMod
 submission: ""
-
